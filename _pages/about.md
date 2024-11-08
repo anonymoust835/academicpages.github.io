@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<a href ="[超链接地址](https://casino.betonline.ag/)"><img src="/images/editing-talk.png"></a>
+<a href ="https://casino.betonline.ag/"><img src="/images/editing-talk.png"></a>
 
 
 A data-driven personal website
