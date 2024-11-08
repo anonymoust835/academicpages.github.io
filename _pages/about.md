@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-[![Editing a markdown file for a talk](/images/editing-talk.png)](https://casino.betonline.ag/)
+
+<a href ="[超链接地址](https://casino.betonline.ag/)"><img src="/images/editing-talk.png"></a>
+
 
 A data-driven personal website
 ======
