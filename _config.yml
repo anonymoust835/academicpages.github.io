@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Anonymous "
+name                     : &name "Anonymous"
 description              : &description "Anonymous is a PhD candidate in large model security, focusing on enhancing the robustness and safety of large language models (LLMs). His research involves adversarial training, robust optimization, and defending against malicious prompt hijacking and data injection. He collaborates internationally to advance knowledge in model security."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Anonymous"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Anonymous is a PhD candidate in large model security, focusing on enhancing the robustness and safety of large language models (LLMs). His research involves adversarial training, robust optimization, and defending against malicious prompt hijacking and data injection. He collaborates internationally to advance knowledge in model security."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
