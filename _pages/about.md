@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[![Editing a markdown file for a talk](/images/editing-talk.png)](https://casino.betonline.ag/)
 
 A data-driven personal website
 ======
